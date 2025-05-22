@@ -76,7 +76,7 @@ Aspiring Data Scientist and Data Analytics Enthusiast
 
 ## Contact
 Feel free to connect with me for feedback or collaboration:
-- [GitHub Profile](https://github.com/yourusername)
+- [GitHub Profile](https://github.com/Prajwalkadam12)
 - [LinkedIn Profile](https://www.linkedin.com/in/prajwal-kadam-/)
 
 ---
